@@ -15,6 +15,7 @@ const Home = () => {
             Hi, I'm Rafsan Ahmed Raj.
           </h2>
           <p className="text-gray-500 py-4 text-xl">Front-End developer</p>
+
           <p className="text-gray-500 py-4 max-w-md">
             Innovative Frontend Developer specializing in creating user-centric,
             responsive web applications using modern JavaScript frameworks like
